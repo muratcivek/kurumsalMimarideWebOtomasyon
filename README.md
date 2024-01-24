@@ -1,5 +1,5 @@
 # kurumsalMimarideWebOtomasyon
-Proje yapısına dikkat ederek geliştirilen bir web test otomasyon projesi
+Java dilini kullanarak Selenium WebDriver ile TestNG, BBD, Cucumber teknolojilerini dahil ederek geliştirdiğim amazon sitesi üzerinden html elemanları üzerinde kurumsal yapıda web test otomasyonu projem
 
 1) amazon.com.tr sitesi açılır.
 2) karşımıza gelen onay kutusu kabul edilir.
